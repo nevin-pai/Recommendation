@@ -1,0 +1,28 @@
+entity,cei_code,object_type,priority_rank,impact,attribute_value,failure_count,attribute,total_scope,reccomendation,cei_severity,object_severity
+Host,6.3.1,External Server,1.0,1.0,United Kingdom,1.0,Location,100,Scan External Server daily for vulnerabilities in United Kingdom,3,4
+Host,6.3.1,External Server,1.0,8.0,Product 01,8.0,Product,100,Scan External Server daily for vulnerabilities in Product 01,3,4
+Host,6.3.1,External Server,1.0,7.0,Australia,7.0,Location,100,Scan External Server daily for vulnerabilities in Australia,3,4
+Host,6.3.1,External Server,1.0,1.0,Product 02,1.0,Product,100,Scan External Server daily for vulnerabilities in Product 02,3,4
+Host,6.3.1,External Server,1.0,1.0,Product 03,1.0,Product,100,Scan External Server daily for vulnerabilities in Product 03,3,4
+Host,6.3.1,External Server,1.0,2.0,India,2.0,Location,100,Scan External Server daily for vulnerabilities in India,3,4
+Host,6.6.1,Workstation,2.0,10.285714285714286,Product 01,72.0,Product,700,Upgrade operating systems of Workstation that are no longer supported by vendors in Product 01.,4,3
+Host,6.6.1,Workstation,2.0,5.142857142857143,India,36.0,Location,700,Upgrade operating systems of Workstation that are no longer supported by vendors in India.,4,3
+Host,6.6.1,Workstation,2.0,5.714285714285714,Product 03,40.0,Product,700,Upgrade operating systems of Workstation that are no longer supported by vendors in Product 03.,4,3
+Host,6.6.1,Workstation,2.0,6.142857142857143,United Kingdom,43.0,Location,700,Upgrade operating systems of Workstation that are no longer supported by vendors in United Kingdom.,4,3
+Host,6.6.1,Workstation,2.0,10.142857142857142,Australia,71.0,Location,700,Upgrade operating systems of Workstation that are no longer supported by vendors in Australia.,4,3
+Host,6.6.1,Workstation,2.0,5.428571428571429,Product 02,38.0,Product,700,Upgrade operating systems of Workstation that are no longer supported by vendors in Product 02.,4,3
+Host,6.4.2,External Server,3.0,5.0,Product 01,5.0,Product,100,Scan External Server weekly for vulnerabilties in Product 01,1,4
+Host,6.4.2,External Server,3.0,3.0,Australia,3.0,Location,100,Scan External Server weekly for vulnerabilties in Australia,1,4
+Host,6.4.2,External Server,3.0,2.0,India,2.0,Location,100,Scan External Server weekly for vulnerabilties in India,1,4
+Host,6.4.2,Internal Server,4.0,1.5,India,3.0,Location,200,Scan Internal Server weekly for vulnerabilties in India,1,3
+Host,6.4.2,Internal Server,4.0,2.0,United Kingdom,4.0,Location,200,Scan Internal Server weekly for vulnerabilties in United Kingdom,1,3
+Host,6.4.2,Internal Server,4.0,3.5,Product 02,7.0,Product,200,Scan Internal Server weekly for vulnerabilties in Product 02,1,3
+Host,6.4.2,Internal Server,4.0,3.0,Product 03,6.0,Product,200,Scan Internal Server weekly for vulnerabilties in Product 03,1,3
+Host,6.4.2,Internal Server,4.0,3.5,Product 01,7.0,Product,200,Scan Internal Server weekly for vulnerabilties in Product 01,1,3
+Host,6.4.2,Internal Server,4.0,6.5,Australia,13.0,Location,200,Scan Internal Server weekly for vulnerabilties in Australia,1,3
+Host,6.4.1,Workstation,5.0,2.4285714285714284,United Kingdom,17.0,Location,700,Scan Workstation weekly for vulnerabilities in United Kingdom,2,3
+Host,6.4.1,Workstation,5.0,3.857142857142857,Product 01,27.0,Product,700,Scan Workstation weekly for vulnerabilities in Product 01,2,3
+Host,6.4.1,Workstation,5.0,1.1428571428571428,Product 03,8.0,Product,700,Scan Workstation weekly for vulnerabilities in Product 03,2,3
+Host,6.4.1,Workstation,5.0,4.0,Australia,28.0,Location,700,Scan Workstation weekly for vulnerabilities in Australia,2,3
+Host,6.4.1,Workstation,5.0,2.142857142857143,Product 02,15.0,Product,700,Scan Workstation weekly for vulnerabilities in Product 02,2,3
+Host,6.4.1,Workstation,5.0,0.7142857142857143,India,5.0,Location,700,Scan Workstation weekly for vulnerabilities in India,2,3
